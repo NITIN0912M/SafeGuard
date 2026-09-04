@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Fraud Explainer",
+  "description": "Interactive real-time UPI fraud detection and plain-language explainability engine to protect users before entering their PIN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
